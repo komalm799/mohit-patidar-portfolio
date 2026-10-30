@@ -5,7 +5,7 @@ import hero1 from "../assets/hero1.jpeg"
 const Photos = () => {
   return (
     <div className="px-6 md:px-24 py-20 bg-white">
-      <h2 className="text-sm tracking-[0.3em] font-bold text-gray-400">02 — MY PROJECTS</h2>
+      <h2 className="text-sm tracking-[0.3em] font-bold text-gray-400"> MY PROJECTS</h2>
       <h3 className="text-4xl md:text-5xl font-black mt-4 max-w-3xl">
         Explore my website projects, development work, photos, and video demonstrations.
       </h3>
