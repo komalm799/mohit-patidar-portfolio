@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div className="w-full bg-white">
 
-      {/* 1. BANNER - FULL WIDTH, SAHI SE DIKHEGA */}
+      {/* 1. BANNER -  */}
       <div className="w-full">
         <img 
           src={banner} 

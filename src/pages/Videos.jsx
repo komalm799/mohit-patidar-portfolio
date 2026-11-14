@@ -9,6 +9,8 @@ import video8 from "../assets/video8.mp4"
 import video9 from "../assets/video9.mp4"
 import video10 from "../assets/video10.mp4"
 import info from "../assets/info.jpeg"
+import video11 from "../assets/video11.mp4"
+import video12 from "../assets/video12,mp4"
 
 const Videos = () => {
   const videosData = [
@@ -22,6 +24,10 @@ const Videos = () => {
     { src: video8, title: "Database Management System", desc: "Efficient data handling with SQL, MongoDB and optimizations.", tag: "SQL" },
     { src: video9, title: "Responsive Landing Page", desc: "Pixel-perfect landing page with Figma to code conversion.", tag: "Figma to Code" },
     { src: video10, title: "Deployment & Hosting", desc: "Live project deployment and performance optimization.", tag: "Live Project" },
+    { src: video11, title: "Deployment & Hosting", desc: "Live project deployment and performance optimization.", tag: "Live Project" },
+    { src: video12, title: "Python Backend API", desc: "REST API development with Python Django & PostgreSQL.", tag: "Python" }
+
+
   ]
 
   return (
